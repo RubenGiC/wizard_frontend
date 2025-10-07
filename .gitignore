@@ -1,0 +1,8 @@
+node_module/
+# Dist build
+dist/
+# Config de sistema
+.DS_Store
+*.log
+# Archivos de entorno (si los tienes)
+.env
