@@ -28,7 +28,7 @@ wizard_frontend
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:RubenGiC/wizard_frontend.git
    cd wizard_frontend
    ```
 
